@@ -14,9 +14,8 @@
        style="border-radius:100%; border:4px solid #00bcd4;" />
 </p> -->
 <p align="center">
-  <img src="https://profile.jpg/74038190/212749443-6b0a3c42-2d3b-4c1f-bb4f-4b5d1d7c6e7f.gif" width="260" />
-  <br/>
-  <img src="assets/profile.jpg" width="170" style="border-radius:50%; margin-top:-215px;" />
+  <img src="assets/profile.jpg" alt="Nikhil Kumar" width="220"
+       style="border-radius: 50%; border: 4px solid #00ff88; padding: 4px;" />
 </p>
 
 
