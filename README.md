@@ -8,11 +8,17 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/NikhilDeveloper59/NikhilDeveloper59/main/profile.jpg"
        width="190"
        style="border-radius:100%; border:4px solid #00bcd4;" />
+</p> -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-6b0a3c42-2d3b-4c1f-bb4f-4b5d1d7c6e7f.gif" width="260" />
+  <br/>
+  <img src="assets/profile.jpg" width="170" style="border-radius:50%; margin-top:-215px;" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NikhilDeveloper59&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
