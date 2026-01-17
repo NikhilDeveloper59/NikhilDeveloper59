@@ -3,9 +3,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Nikhil+Kumar+%F0%9F%91%8B;Full+Stack+Web+Developer;Python+Developer;AI+%2F+ML+Enthusiast;Always+learning+new+things!" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAB&center=true&vCenter=true&width=900&lines=🎓+Computer+Science+Student;💻+Frontend+Developer;🐍+Python+Developer;🤖+AI%2FML+Explorer;🔥+DSA+%7C+Problem+Solver" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/NikhilDeveloper59/NikhilDeveloper59/main/profile.jpg"
