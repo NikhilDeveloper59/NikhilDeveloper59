@@ -7,22 +7,6 @@
   </a>
 </p>
 
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/NikhilDeveloper59/NikhilDeveloper59/main/profile.jpg"
-       width="190"
-       style="border-radius:100%; border:4px solid #00bcd4;" />
-</p> -->
-<p align="center">
-  <img src="profile.jpg" width="180"
-       style="border-radius:50%; border:4px solid #00ff99; padding:3px;" />
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NikhilDeveloper59&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
