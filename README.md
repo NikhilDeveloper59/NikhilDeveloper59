@@ -30,11 +30,10 @@
 
 <p>
   💬 <b>Languages I use frequently:</b><br><br>
-  <img src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-1e1e1e?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-1e1e1e?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-1e1e1e?style=for-the-badge&logo=javascript&logoColor=white"/>
 </p>
 
 ---
