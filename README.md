@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nikhil Kumar 👋</h1>
 <h3 align="center">B.Tech CSE(AI) | C/C++ | Python | DSA Learner | Future Software Developer 🚀</h3>
 
-<p align="center">
+<p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAB&center=true&vCenter=true&width=900&lines=🎓+Computer+Science+Student;💻+Frontend+Developer;🐍+Python+Developer;🤖+AI%2FML+Explorer;🔥+DSA+%7C+Problem+Solver" />
   </a>
