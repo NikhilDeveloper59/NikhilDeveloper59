@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Nikhil Kumar 👋</h1>
 <h3 align="center">B.Tech CSE(AI) | C/C++ | Python | DSA Learner | Future Software Developer 🚀</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Nikhil+Kumar+%F0%9F%91%8B;Full+Stack+Web+Developer;Python+Developer;AI+%2F+ML+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Nikhil+Kumar+%F0%9F%91%8B;Full+Stack+Web+Developer;Python+Developer;AI+%2F+ML+Enthusiast;Always+learning+new+things!" />
