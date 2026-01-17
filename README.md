@@ -65,8 +65,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+
+
+## 🔗 Connect With Me
 <p align="center">
-  <a href="https://github.com/NikhilDeveloper59">
+  <a href="https://www.facebook.com/share/17LCHRthD8/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <a href="https://github.com/NikhilDeveloper59">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/nikhil-kumar-ab451018b/">
@@ -74,23 +79,6 @@
   </a>
   <a href="https://www.instagram.com/its_nikhil_ns/">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram">
-  </a>
-</p>
-
-
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.facebook.com/share/17LCHRthD8/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/its_nikhil_ns/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/nikhil-kumar-ab451018b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-    <a href="https://github.com/NikhilDeveloper59">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
