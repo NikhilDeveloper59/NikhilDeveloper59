@@ -28,7 +28,7 @@
 - 🚀 Learning and building projects in **Python**
 - 🎯 Interested in **AI + Automation + Real-world problem solving**
 
-<p align="center">
+<p>
   💬 <b>Languages I use frequently:</b><br><br>
   <img src="https://img.shields.io/badge/Python-1e1e1e?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-1e1e1e?style=for-the-badge&logo=openjdk&logoColor=white"/>
