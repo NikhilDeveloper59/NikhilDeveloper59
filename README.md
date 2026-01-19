@@ -38,7 +38,7 @@
 ## 🚀 Projects
 ### 🔥 Major Projects
 ✅ **Jarvis Voice Assistant (Python)**
-Built an intelligent voice assistant using Python enabling voice commands for web automation, Wikipedia search, weather/news updates, email sending, and media playback. Integrated AI chat mode and modular architecture to enhance functionality and scalability.
+--Built an intelligent voice assistant using Python enabling voice commands for web automation, Wikipedia search, weather/news updates, email sending, and media playback. Integrated AI chat mode and modular architecture to enhance functionality and scalability.
 
 ✅ **Snake-Water-Gun Game (Python)**
 - Fun CLI game using Python logic and random module
