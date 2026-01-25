@@ -37,11 +37,21 @@
 
 ## 🚀 Projects
 ### 🔥 Major Projects
-✅ **Jarvis Voice Assistant (Python)**
---Built an intelligent voice assistant using Python enabling voice commands for web automation, Wikipedia search, weather/news updates, email sending, and media playback. Integrated AI chat mode and modular architecture to enhance functionality and scalability.
 
-✅ **Snake-Water-Gun Game (Python)**
-- Fun CLI game using Python logic and random module
+✅ **Student Performance Prediction (Machine Learning)**  
+- Developed a machine learning system to analyze student academic data and predict outcomes.  
+- 📈 **Score Prediction** using **Linear Regression**  
+- 🎯 **Pass/Fail Classification** using **Logistic Regression**  
+- 🏆 **Grade Prediction (A/B/C)** using **Random Forest Classifier**  
+- Applied data preprocessing, feature selection, and model evaluation techniques.
+
+✅ **House Price Prediction (Machine Learning)**  
+- Built a regression model to predict house prices based on features like location, size, number of rooms, and population.  
+- Used **Linear Regression and other ML algorithms** with proper data scaling and preprocessing.  
+- Evaluated performance using metrics like **MAE, MSE, and R² Score**.
+
+✅ **Jarvis Voice Assistant (Python)**  
+--Built an intelligent voice assistant using Python enabling voice commands for web automation, Wikipedia search, weather/news updates, email sending, and media playback. Integrated AI chat mode and modular architecture to enhance functionality and scalability.
 
 ---
 
