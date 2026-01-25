@@ -78,7 +78,10 @@
 
 ## 🔗 Connect With Me
 <p align="center">
-    <a href="https://github.com/NikhilDeveloper59">
+  <a href="https://nikhildeveloper59.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+  <a href="https://github.com/NikhilDeveloper59">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/nikhil-kumar-ab451018b/">
