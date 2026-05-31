@@ -1,15 +1,13 @@
 <h1 align="center">Hi there, I'm Nikhil Kumar 👋</h1>
 <h3 align="center">B.Tech CSE(AI) | C/C++ | Python | DSA Learner | Future Software Developer 🚀</h3>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Nikhil%20Kumar&fontSize=40&fontAlign=50&animation=twinkling&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Nikhil%20Kumar&fontSize=45&fontAlign=50&animation=fade&color=gradient" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&color=00FFAB&lines=🎓+Computer+Science+Student;💻+Frontend+Developer;🐍+Python+Developer;🤖+AI%2FML+Explorer;🔥+DSA+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&color=00FFAB&lines=Computer+Science+Student;Frontend+Developer;Python+Developer;AI%2FML+Explorer;DSA+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
