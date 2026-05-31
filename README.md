@@ -35,21 +35,25 @@
 
 ## 🚀 Projects
 ### 🔥 Major Projects
+✅ **AI-Based Student Performance Prediction & Early Warning System (Machine Learning)**
 
-✅ **Student Performance Prediction (Machine Learning)**  
-- Developed a machine learning system to analyze student academic data and predict outcomes.  
-- 📈 **Score Prediction** using **Linear Regression**  
-- 🎯 **Pass/Fail Classification** using **Logistic Regression**  
-- 🏆 **Grade Prediction (A/B/C)** using **Random Forest Classifier**  
-- Applied data preprocessing, feature selection, and model evaluation techniques.
+* Developed an ML-powered web application to predict student scores, grades, and pass/fail outcomes.
+* 📈 **Score Prediction** using **Linear Regression**
+* 🎯 **Pass/Fail Classification** using **Logistic Regression**
+* 🏆 **Grade Prediction** using **Random Forest Classifier**
+* 🚨 Implemented an Early Warning System to identify at-risk students.
 
-✅ **House Price Prediction (Machine Learning)**  
-- Built a regression model to predict house prices based on features like location, size, number of rooms, and population.  
-- Used **Linear Regression and other ML algorithms** with proper data scaling and preprocessing.  
-- Evaluated performance using metrics like **MAE, MSE, and R² Score**.
+✅ **House Price Prediction (Machine Learning)**
 
-✅ **Jarvis Voice Assistant (Python)**  
---Built an intelligent voice assistant using Python enabling voice commands for web automation, Wikipedia search, weather/news updates, email sending, and media playback. Integrated AI chat mode and modular architecture to enhance functionality and scalability.
+* Built a machine learning model to predict house prices based on property features.
+* 🤖 Trained and compared multiple regression algorithms for optimal performance.
+* 📊 Evaluated models using **MAE, MSE, RMSE, and R² Score** metrics.
+
+✅ **Smart College Assistant (AI Chatbot)**
+
+* Developed an AI-powered college assistant using **Semantic NLP** and **Sentence Transformers**.
+* 💬 Provides intelligent responses for admissions, placements, scholarships, exams, and student services.
+* 🧠 Uses **Cosine Similarity** and context-aware intent matching for accurate query understanding.
 
 ---
 
