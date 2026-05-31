@@ -35,13 +35,11 @@
 
 ## 🚀 Projects
 ### 🔥 Major Projects
-✅ **AI-Based Student Performance Prediction & Early Warning System (Machine Learning)**
+✅ **EduVision AI (Machine Learning)**
 
-* Developed an ML-powered web application to predict student scores, grades, and pass/fail outcomes.
-* 📈 **Score Prediction** using **Linear Regression**
-* 🎯 **Pass/Fail Classification** using **Logistic Regression**
-* 🏆 **Grade Prediction** using **Random Forest Classifier**
-* 🚨 Implemented an Early Warning System to identify at-risk students.
+* Built an AI-powered student performance prediction platform for score forecasting, pass/fail detection, grade classification, and academic risk analysis.
+* 🤖 Integrated AI Academic Mentor, teacher dashboard, and bulk student prediction system.
+* 📊 Developed using **Python, Scikit-learn, Streamlit, Pandas, and SQLite** with advanced analytics and visualization features.
 
 ✅ **House Price Prediction (Machine Learning)**
 
