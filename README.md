@@ -1,10 +1,35 @@
 <h1 align="center">Hi there, I'm Nikhil Kumar 👋</h1>
 <h3 align="center">B.Tech CSE(AI) | C/C++ | Python | DSA Learner | Future Software Developer 🚀</h3>
 
-<p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAB&center=true&vCenter=true&width=900&lines=🎓+Computer+Science+Student;💻+Frontend+Developer;🐍+Python+Developer;🤖+AI%2FML+Explorer;🔥+DSA+%7C+Problem+Solver" />
-  </a>
+<p align="center">
+  <svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+      <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#ff0000">
+          <animate attributeName="stop-color"
+            values="#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#9400d3;#ff0000"
+            dur="6s" repeatCount="indefinite"/>
+        </stop>
+
+        <stop offset="100%" stop-color="#9400d3">
+          <animate attributeName="stop-color"
+            values="#9400d3;#ff0000;#ff7f00;#ffff00;#00ff00;#0000ff;#4b0082;#9400d3"
+            dur="6s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+
+    <text x="50%" y="50%"
+          dominant-baseline="middle"
+          text-anchor="middle"
+          font-size="32"
+          font-family="Fira Code, monospace"
+          fill="url(#rainbow)">
+      🎓 Computer Science Student | 💻 Frontend Developer | 🐍 Python Developer | 🤖 AI/ML Explorer | 🔥 DSA Problem Solver
+    </text>
+
+  </svg>
 </p>
 
 ---
